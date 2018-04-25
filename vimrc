@@ -1,5 +1,5 @@
-set nocp "Get improved
-colorscheme solarized8_dark
+set nocp "Get improve
+colorscheme wal
 syntax enable
 set tabstop=4
 set softtabstop=4
