@@ -1,5 +1,10 @@
 set nocp "Get improve
-colorscheme wal
+if has("gui_running")
+        set guifont=Droid\ Sans\ Mono\ Awesome\ Regular\ 10
+        colorscheme solarized8_dark
+else
+        colorscheme wal
+endif
 syntax enable
 set tabstop=4
 set softtabstop=4
