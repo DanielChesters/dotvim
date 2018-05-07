@@ -4,3 +4,6 @@
 [submodule "pack/plugins/opt/wal.vim"]
 	path = pack/plugins/opt/wal.vim
 	url = https://github.com/dylanaraps/wal.vim
+[submodule "pack/plugins/start/typescript-vim"]
+	path = pack/plugins/start/typescript-vim
+	url = https://github.com/leafgarland/typescript-vim.git
