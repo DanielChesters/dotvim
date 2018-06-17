@@ -1,6 +1,6 @@
 if has("gui_running")
-        set guifont=Droid\ Sans\ Mono\ Awesome\ Regular\ 10
-        colorscheme solarized8_dark
+        set guifont=Hack\ Regular\ 10
+        colorscheme dracula
 else
         colorscheme wal
 endif
