@@ -1,6 +1,8 @@
 if has("gui_running")
         set guifont=Hack\ Regular\ 10
-        colorscheme dracula
+        let g:gruvbox_contrast_dark='hard'
+        set background=dark
+        colorscheme gruvbox
 else
         colorscheme wal
 endif
