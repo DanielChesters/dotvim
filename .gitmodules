@@ -10,3 +10,6 @@
 [submodule "pack/plugins/opt/dracula-theme"]
 	path = pack/plugins/opt/dracula-theme
 	url = git@github.com:dracula/vim.git
+[submodule "pack/plugins/opt/gruvbox"]
+	path = pack/plugins/opt/gruvbox
+	url = https://github.com/morhetz/gruvbox.git
