@@ -3,6 +3,8 @@ if has("gui_running")
         let g:gruvbox_contrast_dark='hard'
         set background=dark
         colorscheme gruvbox
+        set go-=m
+        set go-=T
 else
         colorscheme wal
 endif
