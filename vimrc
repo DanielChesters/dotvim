@@ -17,3 +17,5 @@ set number
 set autoindent
 filetype plugin indent on
 set path+=**
+
+autocmd FileType javascript set tabstop=2 shiftwidth=2 softtabstop=2
