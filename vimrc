@@ -17,5 +17,15 @@ set number
 set autoindent
 filetype plugin indent on
 set path+=**
+set showcmd
+set wildmenu
+set wildmode=longest:full,full
+set laststatus=2
+set cursorline
+
+set incsearch
+set hlsearch
+set ignorecase
+set smartcase
 
 autocmd FileType javascript set tabstop=2 shiftwidth=2 softtabstop=2
