@@ -8,22 +8,16 @@ if has("gui_running")
 else
         colorscheme wal
 endif
-syntax enable
 set tabstop=8
 set softtabstop=4
 set shiftwidth=4
 set expandtab
 set number
-set autoindent
-filetype plugin indent on
 set path+=**
 set showcmd
-set wildmenu
 set wildmode=longest:full,full
-set laststatus=2
 set cursorline
 
-set incsearch
 set hlsearch
 set ignorecase
 set smartcase
