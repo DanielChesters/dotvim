@@ -1,13 +1,10 @@
-if has("gui_running")
-        set guifont=Hack\ Regular\ 10
-        let g:gruvbox_contrast_dark='hard'
-        set background=dark
-        colorscheme gruvbox
-        set go-=m
-        set go-=T
-else
-        colorscheme wal
-endif
+set guifont=Hack\ Regular\ 10
+let g:gruvbox_contrast_dark='hard'
+set background=dark
+colorscheme gruvbox
+set go-=m
+set go-=T
+
 set tabstop=8
 set softtabstop=4
 set shiftwidth=4
