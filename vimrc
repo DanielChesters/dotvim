@@ -19,4 +19,7 @@ set hlsearch
 set ignorecase
 set smartcase
 
+set undodir=~/.vim/undodir
+set undofile
+
 autocmd FileType javascript set tabstop=2 shiftwidth=2 softtabstop=2
