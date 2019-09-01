@@ -22,4 +22,6 @@ set smartcase
 set undodir=~/.vim/undodir
 set undofile
 
+set clipboard+=unnamed
+
 autocmd FileType javascript set tabstop=2 shiftwidth=2 softtabstop=2
