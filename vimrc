@@ -24,7 +24,7 @@ set smartcase
 set undodir=~/.vim/undodir
 set undofile
 
-set clipboard+=unnamed
+set clipboard^=unnamed,unnamedplus
 
 if executable('ag') 
     " Note we extract the column as well as the file and line number
