@@ -30,6 +30,7 @@ if executable('ag')
     " Note we extract the column as well as the file and line number
     set grepprg=ag\ --vimgrep
     set grepformat=%f:%l:%c%m
+    let g:ackprg='ag --vimgrep'
 endif
 
 autocmd FileType javascript set tabstop=2 shiftwidth=2 softtabstop=2
