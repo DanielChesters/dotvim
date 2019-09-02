@@ -9,13 +9,13 @@
 	url = https://github.com/leafgarland/typescript-vim.git
 [submodule "pack/plugins/opt/dracula-theme"]
 	path = pack/plugins/opt/dracula-theme
-	url = git@github.com:dracula/vim.git
+	url = https://github.com/dracula/vim.git
 [submodule "pack/plugins/opt/gruvbox"]
 	path = pack/plugins/opt/gruvbox
 	url = https://github.com/morhetz/gruvbox.git
 [submodule "pack/plugins/start/vim-sensible"]
 	path = pack/plugins/start/vim-sensible
-	url = https://tpope.io/vim/sensible.git
+	url = https://github.com/tpope/vim-sensible.git
 [submodule "pack/plugins/start/rust.vim"]
 	path = pack/plugins/start/rust.vim
 	url = https://github.com/rust-lang/rust.vim
