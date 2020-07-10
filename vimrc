@@ -5,7 +5,7 @@ else
 end
 
 Plug 'tpope/vim-sensible'
-Plug 'morhetz/gruvbox'
+Plug 'gruvbox-community/gruvbox'
 Plug 'mileszs/ack.vim'
 Plug 'leafgarland/typescript-vim'
 Plug 'rust-lang/rust.vim'
