@@ -10,6 +10,7 @@ Plug 'mileszs/ack.vim'
 Plug 'leafgarland/typescript-vim'
 Plug 'rust-lang/rust.vim'
 Plug 'mattn/emmet-vim'
+Plug 'tpope/vim-surround'
 
 call plug#end()
 
