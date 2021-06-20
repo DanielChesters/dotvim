@@ -11,6 +11,8 @@ Plug 'leafgarland/typescript-vim'
 Plug 'rust-lang/rust.vim'
 Plug 'mattn/emmet-vim'
 Plug 'tpope/vim-surround'
+Plug 'tpope/vim-commentary'
+Plug 'https://tildegit.org/sloum/gemini-vim-syntax'
 
 call plug#end()
 
